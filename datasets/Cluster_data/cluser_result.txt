@@ -1,0 +1,603 @@
+246
+70
+大类：Aerospace and Travel
+小类:
+Airline (1)
+Airline and Travel (1)
+Airline Reservation (1)
+大类：Aerospace and Travel 总计条数：3
+
+
+大类：Transportation and Vehicle Management
+小类:
+Transportation (2)
+Moving Services (1)
+Transport and Vehicle Management (1)
+Parking and Transportation (3)
+Fleet and Naval Management (1)
+Auto Repair Management (1)
+大类：Transportation and Vehicle Management 总计条数：9
+
+
+大类：Supply Chain and Logistics
+小类:
+Warehouse Management (1)
+Supply Chain and Logistics (2)
+Supply Chain Management (2)
+大类：Supply Chain and Logistics 总计条数：5
+
+
+大类：Telecommunications and Networking
+小类:
+Telecommunications (1)
+General System (1)
+Wireless Network (1)
+大类：Telecommunications and Networking 总计条数：3
+
+
+大类：Software and IT Services
+小类:
+Software Development (1)
+Technical Documentation (1)
+Political Voting Management (1)
+Blog Management (3)
+User Management (4)
+Requirements Analysis (2)
+Database Design (2)
+Multilingual (1)
+Task Scheduling (1)
+Course Management (2)
+Online Education Platform (2)
+Online Examination (1)
+Real-Time Capture (1)
+System Design (1)
+Experience (1)
+System Management (2)
+Agile Development Management (1)
+Session Management (1)
+Workflow Management (1)
+Service Description Management (1)
+Regional Management (1)
+Task Management (2)
+Database Design/Requirements (1)
+System Functionality Requirements (2)
+Programming Learning and Project Management (1)
+Instant Messaging Platform (1)
+Product Sales Management (1)
+Online Job Recruitment (1)
+Functional Requirements (2)
+Software Project Management (1)
+Product Management (3)
+大类：Software and IT Services 总计条数：46
+
+
+大类：Publishing and Media
+小类:
+Broadcasting (3)
+Meteorological (1)
+Supermarket Management (2)
+大类：Publishing and Media 总计条数：6
+
+
+大类：Equipment and Machinery Management
+小类:
+Equipment Management (3)
+Machinery (1)
+Equipment Inspection (1)
+Device Management (2)
+大类：Equipment and Machinery Management 总计条数：7
+
+
+大类：Government and Public Administration
+小类:
+Self-Government (1)
+Government Agency (2)
+大类：Government and Public Administration 总计条数：3
+
+
+大类：Agriculture and Food Production
+小类:
+Agriculture (9)
+Agricultural Products Management (1)
+Agriculture and Specialty Products (1)
+Tortilla Production and Sales (1)
+大类：Agriculture and Food Production 总计条数：12
+
+
+大类：Food and Beverage
+小类:
+Restaurant (4)
+Online Food Ordering (1)
+大类：Food and Beverage 总计条数：5
+
+
+大类：Human Resources and Employee Management
+小类:
+Employee Management (3)
+Human Resource (1)
+HR Management (1)
+Personnel Management (1)
+Corporate HR Management (1)
+大类：Human Resources and Employee Management 总计条数：7
+
+
+大类：Business and Enterprises
+小类:
+Organizations (1)
+Industry (2)
+Business Services (1)
+Modern Enterprise (1)
+Customer Order Management (1)
+Enterprise Management (2)
+Company and Business Management (1)
+Company/Internal Management (2)
+Product Management (3)
+Store and Sales Management (1)
+Commodity Supply (1)
+Online Bookstore Management (1)
+Manufacturing and Inventory (1)
+Production (1)
+Customer Management (1)
+Business Requirement Description (1)
+Business Requirements (4)
+Business Requirement (2)
+Resource Tracking and Management (1)
+Social Security (1)
+Factory Engineer and Machinery Management (1)
+ERP System (1)
+Student Dormitory (1)
+Order and Delivery Systems (2)
+Finance and Payment Systems (1)
+大类：Business and Enterprises 总计条数：35
+
+
+大类：Tobacco Products
+小类:
+Tobacco Products (1)
+Tobacco Storage (1)
+大类：Tobacco Products 总计条数：2
+
+
+大类：Textile
+小类:
+Textile (2)
+大类：Textile 总计条数：2
+
+
+大类：Timber and Furniture
+小类:
+Timber and Furniture (2)
+大类：Timber and Furniture 总计条数：2
+
+
+大类：Chemical Products
+小类:
+Chemical Products (1)
+大类：Chemical Products 总计条数：1
+
+
+大类：Electronics and Technical Services
+小类:
+Electronics (2)
+Gaming and Entertainment (1)
+大类：Electronics and Technical Services 总计条数：3
+
+
+大类：Engineering
+小类:
+Engineering (8)
+大类：Engineering 总计条数：8
+
+
+大类：Real Estate and Construction
+小类:
+Construction and Real Estate (3)
+Real Estate (1)
+Housing Management (1)
+Community Property Management (1)
+Site Management (1)
+大类：Real Estate and Construction 总计条数：7
+
+
+大类：Property and Estate Management
+小类:
+Real Estate Management (3)
+Property Management (2)
+Retail/Store Management (2)
+大类：Property and Estate Management 总计条数：7
+
+
+大类：Retail and Wholesale
+小类:
+Wholesale (1)
+Retail and Wholesale (1)
+Bookstore (1)
+Product Management (3)
+Resource Management (1)
+Asset Management (1)
+Supermarket (1)
+大类：Retail and Wholesale 总计条数：9
+
+
+大类：Commerce and Retail
+小类:
+Retail (3)
+Electronic Commerce (2)
+Customer Order (1)
+大类：Commerce and Retail 总计条数：6
+
+
+大类：Media and Broadcasting
+小类:
+Publishing (2)
+Advertising and Media Tracking (1)
+大类：Media and Broadcasting 总计条数：3
+
+
+大类：Writing and Manuscripts
+小类:
+Manuscript Management (1)
+Article Management (1)
+Customer Relationship (3)
+Natural Resources (1)
+大类：Writing and Manuscripts 总计条数：6
+
+
+大类：Music and Entertainment
+小类:
+Entertainment and Media (3)
+Movie Production Management (1)
+Theater and Performance Management (1)
+Music Platform (1)
+大类：Music and Entertainment 总计条数：6
+
+
+大类：Environment and Natural Resources
+小类:
+Reservoir and River (1)
+Water Treatment (1)
+Urban Greening Management (1)
+Environmental Monitoring (1)
+大类：Environment and Natural Resources 总计条数：4
+
+
+大类：Land Management
+小类:
+Land Management (2)
+大类：Land Management 总计条数：2
+
+
+大类：Utilities and Services
+小类:
+Utility Companies (4)
+Public Facility Maintenance (1)
+大类：Utilities and Services 总计条数：5
+
+
+大类：Technology and Science
+小类:
+Research Institutions (1)
+Scientific Achievements Management (1)
+Science and Technology (1)
+Machine Learning (1)
+Technology Conference Management (1)
+大类：Technology and Science 总计条数：5
+
+
+大类：Legal and Patent Management
+小类:
+Patent Management (1)
+大类：Legal and Patent Management 总计条数：1
+
+
+大类：Information and Data Management
+小类:
+General Company (2)
+Data Management (4)
+File/Directory Management (1)
+Description Service (1)
+Document Management (1)
+Requirements Analysis (2)
+Metadata Management (1)
+File Management (1)
+Log Management (1)
+Email Management (1)
+大类：Information and Data Management 总计条数：15
+
+
+大类：Mining and Safety
+小类:
+Mine and Processing Plant Management (1)
+Mining and Safety Management (1)
+大类：Mining and Safety 总计条数：2
+
+
+大类：Insurance and Financial Services
+小类:
+Insurance (2)
+Pipeline Company (1)
+Futures Trading (1)
+Financial Management (1)
+大类：Insurance and Financial Services 总计条数：5
+
+
+大类：Financial Analysis
+小类:
+Financial Analysis (1)
+大类：Financial Analysis 总计条数：1
+
+
+大类：Research and Development
+小类:
+Barcoding Systems (1)
+大类：Research and Development 总计条数：1
+
+
+大类：E-commerce Platforms
+小类:
+Online Shopping (2)
+Retail and E-commerce (3)
+Popularity Platform (1)
+Shopping Cart (1)
+大类：E-commerce Platforms 总计条数：7
+
+
+大类：Operational Management
+小类:
+Operational Management (2)
+Intelligent Operation (1)
+大类：Operational Management 总计条数：3
+
+
+大类：Corporate and Business Management
+小类:
+Business and Enterprise Management (2)
+Unit Management (1)
+Business Requirement (2)
+Main Functions Description (1)
+Enterprise Development (1)
+大类：Corporate and Business Management 总计条数：7
+
+
+大类：Communication and Social Media
+小类:
+Mail System (1)
+Social Platform (2)
+Social Networking and Communication (1)
+Chat and Messaging Systems (1)
+Social Media (1)
+Web Page Management (1)
+大类：Communication and Social Media 总计条数：7
+
+
+大类：Investment and Virtual Trading
+小类:
+Blockchain/Cryptocurrency Management (1)
+Investment and Virtual Trading (1)
+Blockchain Transactions (1)
+大类：Investment and Virtual Trading 总计条数：3
+
+
+大类：Hospitality and Events
+小类:
+Conference Management (3)
+Dormitory Management (1)
+Exhibition Management (1)
+Reservation System (1)
+大类：Hospitality and Events 总计条数：6
+
+
+大类：Library Management
+小类:
+Library Management (5)
+大类：Library Management 总计条数：5
+
+
+大类：Customer Relationship
+小类:
+Customer Relationship (3)
+大类：Customer Relationship 总计条数：3
+
+
+大类：Hospitality Management
+小类:
+Salon Management (1)
+Hotel Management (1)
+大类：Hospitality Management 总计条数：2
+
+
+大类：Subscription and Membership
+小类:
+Membership Management (2)
+Subscription and Services (1)
+Mall and Membership Systems (1)
+News Subscription (1)
+大类：Subscription and Membership 总计条数：5
+
+
+大类：Banking and Financial Management
+小类:
+Transaction Management (1)
+Mining/Equipment Management (1)
+Bank Account Management (1)
+大类：Banking and Financial Management 总计条数：3
+
+
+大类：Security and Access Control
+小类:
+Authentication Systems (2)
+User Control (1)
+Access Control (1)
+Permission Allocation (1)
+Permission Management (2)
+大类：Security and Access Control 总计条数：7
+
+
+大类：Gaming
+小类:
+Gaming (1)
+Character Management (1)
+Multiplayer Competition (1)
+大类：Gaming 总计条数：3
+
+
+大类：Education Management
+小类:
+Student and Course Management (1)
+Student Management (6)
+University Academic Management (1)
+Education (2)
+Education Management (1)
+Scholarship Management (1)
+Online Learning Exam System (1)
+School (1)
+Teaching Management (2)
+School Academic Management (1)
+Educational and Training (2)
+Course Selection (1)
+University Development (1)
+Online Assignment (1)
+大类：Education Management 总计条数：22
+
+
+大类：Internet and Digital Solutions
+小类:
+E-commerce (2)
+Web Services (1)
+Technology (1)
+大类：Internet and Digital Solutions 总计条数：4
+
+
+大类：Sports and Recreation
+小类:
+Sports Management (1)
+Sport (1)
+Betting and Racing Systems (1)
+大类：Sports and Recreation 总计条数：3
+
+
+大类：Storage Management
+小类:
+Storage Management (1)
+大类：Storage Management 总计条数：1
+
+
+大类：Healthcare and Medical Services
+小类:
+Health and Medical (1)
+Medical Management (2)
+Medical Waste Management (1)
+大类：Healthcare and Medical Services 总计条数：4
+
+
+大类：Donation and Alumni Management
+小类:
+Donation and Alumni Management (1)
+Research Fund (1)
+大类：Donation and Alumni Management 总计条数：2
+
+
+大类：Logistics
+小类:
+Logistics (1)
+大类：Logistics 总计条数：1
+
+
+大类：Fishing Equipment Management
+小类:
+Fishing Equipment Management (1)
+大类：Fishing Equipment Management 总计条数：1
+
+
+大类：
+小类:
+Other (4)
+大类： 总计条数：4
+
+
+大类：Automotive and Vehicle Services
+小类:
+Automotive and Vehicle Services (1)
+大类：Automotive and Vehicle Services 总计条数：1
+
+
+大类：Mortgages and Banking
+小类:
+Mortgage/Banking Management (1)
+大类：Mortgages and Banking 总计条数：1
+
+
+大类：Laboratory Management
+小类:
+Laboratory Management (2)
+大类：Laboratory Management 总计条数：2
+
+
+大类：Consulting and Business Services
+小类:
+Consulting Service (1)
+Business Services Management (1)
+Maintenance Task Management (1)
+大类：Consulting and Business Services 总计条数：3
+
+
+大类：Card/Credit Card Management
+小类:
+Card/Credit Card Management (2)
+大类：Card/Credit Card Management 总计条数：2
+
+
+大类：Food and Hospitality
+小类:
+Hotel and Reservation Systems (2)
+Mall Management (1)
+大类：Food and Hospitality 总计条数：3
+
+
+大类：Content Management
+小类:
+Book Management (1)
+Seat Reservation (1)
+DotNetNuke Content Management (1)
+大类：Content Management 总计条数：3
+
+
+大类：Research Institution
+小类:
+Research Institution (1)
+Course Design (1)
+大类：Research Institution 总计条数：2
+
+
+大类：Legal and Compliance
+小类:
+Bank Management (1)
+English Translation (1)
+大类：Legal and Compliance 总计条数：2
+
+
+大类：Weather Forecasting
+小类:
+Weather Forecasting (1)
+大类：Weather Forecasting 总计条数：1
+
+
+大类：Network and Internet Services
+小类:
+Web Services Monitoring (1)
+Network Chat (1)
+大类：Network and Internet Services 总计条数：2
+
+
+大类：Betting and Racing Systems
+小类:
+Work Item Management (1)
+大类：Betting and Racing Systems 总计条数：1
+
+
+大类：Sales Point Management
+小类:
+Sales Point Management (1)
+大类：Sales Point Management 总计条数：1
+
+
