@@ -9,10 +9,9 @@ from agent_format import *
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--model_name', default='gpt4')  # gpt4 chatgpt 
-    # TODO 这个数据库还没有构建起来，先试试用example
     parser.add_argument('--dataset_name', default='DBexample')
     parser.add_argument('--dataset_dir', default='./datasets/RSchema/')
-    parser.add_argument('--start_pos', type=int, default=0)  # 就测一个
+    parser.add_argument('--start_pos', type=int, default=0)
     parser.add_argument('--end_pos', type=int, default=790)
     parser.add_argument('--output_files_folder', default='./outputs/DBdesign_domain')
     # parser.add_argument('--method', type=str, default='anal_only', choices=['syn_verif', 'syn_only', 'anal_only', 'base_direct', 'base_cot'])
@@ -51,15 +50,12 @@ if __name__ == '__main__':
         else:
             exact_output_file = f"healthcare_domain_{args.output_files_folder}/{args.model_name}-{args.method}_{version}.jsonl"
     # print(exact_output_file)
-    # 获取文件所在的目录路径
     dir_path = os.path.dirname(exact_output_file)
-    # 检查目录是否存在
     if not os.path.exists(dir_path):
-        # 如果目录不存在，则创建目录
         os.makedirs(dir_path)
-        print(f"目录 {dir_path} 已创建。")
+        print(f"dir {dir_path} create。")
     else:
-        print(f"目录 {dir_path} 已存在。")
+        print(f"dir {dir_path} exist。")
 
     input_prompt = {}
     # finance_ids = ['67552f0b13602ec03b41ab51', '67552f0a13602ec03b41a84b', '67552f0a13602ec03b41a9ff',
@@ -90,7 +86,7 @@ if __name__ == '__main__':
         raw_sample = dataobj.get_by_idx(idx)
         if raw_sample['id'] not in healthcare_ids or raw_sample['id'] in exist_data:
             continue
-        question = raw_sample['question']  # 不是问句结尾，是陈述句，直接用
+        question = raw_sample['question']  
 
         realqid = idx
         data_info = fully_decode(question, handler, args)
@@ -98,7 +94,6 @@ if __name__ == '__main__':
         data_info['remarks'] = raw_sample['remarks']
         print(f'---- id : {data_info["id"]}')
         print(data_info)
-        # 对于example，先用json存储
         with open(exact_output_file, 'a+') as f:
             f.write(json.dumps(data_info, ensure_ascii=False) + '\n')
-    print(f'已成功保存至{exact_output_file}')
+    print(f'save to {exact_output_file}')
